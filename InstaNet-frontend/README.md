@@ -1,6 +1,6 @@
-# Around-frontend
+# InstaNet-frontend
 The frontend of **Geo-index based social network** uses React, bootstrapped with [**create-react-app**](https://github.com/facebook/create-react-app).<br>
-(backend implementation using Golang, see [here](https://github.com/liush27/Around-backend))
+(backend implementation using Golang.
 
 # Functionalities
 - **sign up**
@@ -19,3 +19,7 @@ The frontend of **Geo-index based social network** uses React, bootstrapped with
 - Route comes from `react-router-dom`
 - [React Grid Gallery](https://github.com/benhowell/react-grid-gallery) 
 - [react-google-maps](https://github.com/tomchentw/react-google-maps)
+
+## Author
+- Dixin Sun
+
