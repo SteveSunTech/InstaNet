@@ -1,6 +1,6 @@
 # InstaNet-backend
 Geo-index based social network backend using Golang<br>
-Frontend implementation uses React, please see [here](https://github.com/liush27/Around-frontend).
+Frontend implementation uses React.
 
 # Overview of project
 - Web services in **Golang** to handle posts, seardh and user login, logout are deployed to **Google App Engine(GAE flex)**.
