@@ -1,5 +1,5 @@
 # InstaNet-frontend
-The frontend of **Geo-index based social network** uses React, bootstrapped with [**create-react-app**](https://github.com/facebook/create-react-app).<br>
+The frontend of **InstaNet** uses React, bootstrapped with [**create-react-app**](https://github.com/facebook/create-react-app).<br>
 (backend implementation using Golang.
 
 # Functionalities
