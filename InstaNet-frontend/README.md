@@ -1,6 +1,6 @@
 # InstaNet-frontend
 The frontend of **InstaNet** uses React, bootstrapped with [**create-react-app**](https://github.com/facebook/create-react-app).<br>
-(backend implementation using Golang.
+backend implementation using Golang.
 
 # Functionalities
 - **sign up**
