@@ -1,5 +1,5 @@
 # InstaNet-backend
-Geo-index based social network backend using Golang<br>
+location based social network backend using Golang and ElasticSearch with Google Cloud.<br>
 Frontend implementation uses React.
 
 # Overview of project
