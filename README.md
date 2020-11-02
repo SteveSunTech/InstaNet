@@ -1,4 +1,4 @@
-# Around-backend
+# InstaNet-backend
 Geo-index based social network backend using Golang<br>
 Frontend implementation uses React, please see [here](https://github.com/liush27/Around-frontend).
 
@@ -90,3 +90,6 @@ Frontend implementation uses React, please see [here](https://github.com/liush27
  - [Example](https://github.com/golang-samples/http/blob/master/fileupload/main.go) Go parseMultipart form
  - [uuid](https://github.com/pborman/uuid) : each post is unique
  - [encoding](https://golang.org/pkg/encoding/json/) json
+ 
+ ## Author
+ -Dixin Sun
